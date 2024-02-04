@@ -1,0 +1,6 @@
+The libraries required for the following project are:
+pygame
+neat
+os
+random
+time
