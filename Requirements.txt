@@ -1,6 +1,8 @@
 The libraries required for the following project are:
+
+(Install them using the following commmand : pip3 install <library name>)
 pygame
-neat
+neat (Use pip3 install neat-python)
 os
 random
 time
